@@ -7,7 +7,7 @@ The LLM generators used were:
 ### Datasets
 
 | dataset | test n | Generator | floor | human real | human fake | synthetic |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | `d1_human_real_vs_human_fake` | 398 | -- | 0.500 | 199 | 199 | 0 |
 | `d2_sampled_human_real_vs_synthetic` | 398 | Small | 0.500 | 199 | 0 | 199 |
 | `d2.5_sampled_human_real_vs_synthetic` | 398 | Large | 0.500 | 199 | 0 | 199 |
